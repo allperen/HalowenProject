@@ -4,6 +4,14 @@ public class FeatureACode {
 
 
         System.out.println("aa");
+        System.out.println("aa");
+        System.out.println("aa");
+        System.out.println("aa");
+        System.out.println("aa");
+        System.out.println("aa");
+        System.out.println("aa");
+        System.out.println("aa");
+        System.out.println("aa");
 
 
 
